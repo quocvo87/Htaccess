@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+    ErrorDocument 404 /Htaccess/PageNotFound/notfound.html
+    #Options Indexes
+</IfModule>
